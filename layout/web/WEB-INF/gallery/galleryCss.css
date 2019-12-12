@@ -1,0 +1,10 @@
+.poly-prod {
+    text-align: center;
+    padding: 0px;
+}
+
+.poly-prod .panel-body img {
+    /*height: 150px;*/
+    max-width: 100%;
+    object-fit: cover;
+}
